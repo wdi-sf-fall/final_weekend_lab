@@ -4,7 +4,7 @@
 
 [http://coderbyte.com/](http://coderbyte.com/)
 
-Sign up for an account and work through all of the easy challenges. For the one's you can not figure out, check out the solutions and learn from other people's code. You can implement this in JavaScript or Ruby (Ruby will most likely be easier).
+Sign up for an account and work through all of the easy challenges. For the challenges you can not figure out, check out a few solutions and learn from other people's code. You can implement this in JavaScript or Ruby (Ruby will most likely be easier).
 
 ## Part 2 - Hangman
 
@@ -18,7 +18,6 @@ game.
 - You should create a Rails app and set up an Angular front-end.
 - Most of the lab will be in Angular, but we want you get used to
   integrating it with Rails.
-- This will be a single page app.
 
 ## Minimum Requirements
 
