@@ -6,7 +6,7 @@
 
 Sign up for an account and work through all of the easy challenges. For the challenges you can not figure out, check out a few solutions and learn from other people's code. You can implement this in JavaScript or Ruby (Ruby will most likely be easier).
 
-**Tip**: if you want to see other people's solutions you must submit your code (even if it's incorrect) and then click "compare your code". You'll see a list of people who scored high on the exercise and will be able to click on their profile and then click on "Analyze this User's Code" to see a solution. 
+**Tip**: If you want to see other people's solutions you must submit your code (even if it's incorrect) and then click "compare your code". You'll see a list of people who scored highly on the exercise. From there you may navigate to their profile and click "Analyze this User's Code" to see their solution. 
 
 ## Part 2 - Hangman
 
