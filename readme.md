@@ -58,7 +58,7 @@ For this part of the lab, we'd like you to create a To-do app with the following
 3. The user should be able to mark a task as completed 
 4. The user should be able to edit a task and change it's text
 7. The to-do's should be persisent and stored in a database
-8. The app should use angular-rails-resource or $http to make AJAX calls
+8. The app should use angular-rails-resource or the simpler $http object to make AJAX calls
 6. The to-do app should be styled appropriately 
 
 ## Setup
